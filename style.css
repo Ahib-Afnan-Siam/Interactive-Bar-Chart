@@ -1,0 +1,40 @@
+/* style.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f2f4f8;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 2rem;
+  color: #222;
+}
+
+#bar-chart {
+  max-width: 1000px;
+  height: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Optional: Make chart area responsive */
+@media (max-width: 768px) {
+  #bar-chart {
+    height: 500px;
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+}

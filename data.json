@@ -1,0 +1,52 @@
+[
+  {
+    "Product": "aaa",
+    "TotalValue": 10,
+    "TotalSales": 10
+  },
+  {
+    "Product": "ooo",
+    "TotalValue": 17,
+    "TotalSales": 8
+  },
+  {
+    "Product": "rtt",
+    "TotalValue": 23,
+    "TotalSales": 4
+  },
+  {
+    "Product": "ghh",
+    "TotalValue": 40,
+    "TotalSales": 15
+  },
+  {
+    "Product": "dww",
+    "TotalValue": 30,
+    "TotalSales": 10
+  },
+  {
+    "Product": "ytt",
+    "TotalValue": 26,
+    "TotalSales": 7
+  },
+  {
+    "Product": "eee",
+    "TotalValue": 15,
+    "TotalSales": 7
+  },
+  {
+    "Product": "qyy",
+    "TotalValue": 18,
+    "TotalSales": 7
+  },
+  {
+    "Product": "prp",
+    "TotalValue": 20,
+    "TotalSales": 7
+  },
+  {
+    "Product": "hgt",
+    "TotalValue": 40,
+    "TotalSales": 7
+  }
+]
