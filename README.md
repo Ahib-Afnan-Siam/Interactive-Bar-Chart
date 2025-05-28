@@ -28,13 +28,12 @@ An interactive bar chart visualization built using **D3.js**, allowing users to 
 
 ## 📁 Project Structure
 Interactive-Bar-Chart/
-├── index.html # Main HTML structure
-├── style.css # Custom styles
-├── script.js # D3.js chart logic
-├── data.json # Sample dataset (bar values)
-├── Screenshot_20250528_220107.png # UI preview image
-└── README.md # Project documentation
-
+├── index.html          # Main HTML file
+├── style.css           # Stylesheet
+├── script.js           # D3.js script for chart functionality
+├── data.json           # Dataset for the bar chart
+├── Screenshot_20250528_220107.png  # Project screenshot
+└── README.md           # Project documentation
 
 ---
 
@@ -55,13 +54,14 @@ To view the interactive chart locally:
 
     Open index.html using a browser:
     firefox index.html
-    # or
+     or
     google-chrome index.html
 
 
-👤 Author
+## 👤 Author
 
 Ahib Afnan Siam
 📧 ahibafnan99@gmail.com
+
 🔗 GitHub Profile -> https://github.com/Ahib-Afnan-Siam
 
