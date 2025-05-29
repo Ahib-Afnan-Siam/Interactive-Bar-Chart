@@ -68,6 +68,7 @@ To view the interactive chart locally:
 ## 👤 Author
 
 Ahib Afnan Siam
+
 📧 ahibafnan99@gmail.com
 
 🔗 [GitHub Profile](https://github.com/Ahib-Afnan-Siam)
