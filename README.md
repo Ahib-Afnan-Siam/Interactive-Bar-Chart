@@ -27,6 +27,7 @@ An interactive bar chart visualization built using **D3.js**, allowing users to 
 ---
 
 ## 📁 Project Structure
+```text
 Interactive-Bar-Chart/
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet
@@ -34,6 +35,8 @@ Interactive-Bar-Chart/
 ├── data.json           # Dataset for the bar chart
 ├── Screenshot_20250528_220107.png  # Project screenshot
 └── README.md           # Project documentation
+
+```
 
 ---
 
@@ -44,9 +47,12 @@ To view the interactive chart locally:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Ahib-Afnan-Siam/Interactive-Bar-Chart.git
+   
 2. Navigate to the folder
-
+```bash
    cd Interactive-Bar-Chart
+```
+
 3. Open the project
 
     Double-click index.html
@@ -57,11 +63,12 @@ To view the interactive chart locally:
      or
     google-chrome index.html
 
+---
 
 ## 👤 Author
 
 Ahib Afnan Siam
 📧 ahibafnan99@gmail.com
 
-🔗 GitHub Profile -> https://github.com/Ahib-Afnan-Siam
+🔗 [GitHub Profile](https://github.com/Ahib-Afnan-Siam)
 
