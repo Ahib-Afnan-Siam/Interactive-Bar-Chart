@@ -49,19 +49,19 @@ To view the interactive chart locally:
    git clone https://github.com/Ahib-Afnan-Siam/Interactive-Bar-Chart.git
    
 2. Navigate to the folder
-```bash
-   cd Interactive-Bar-Chart
-```
+   ```bash
+      cd Interactive-Bar-Chart
+   ```
 
 3. Open the project
 
     Double-click index.html
     OR
 
-    Open index.html using a browser:
-    firefox index.html
+    Open `index.html` using a browser:
+    firefox `index.html`
      or
-    google-chrome index.html
+    google-chrome `index.html`
 
 ---
 
